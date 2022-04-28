@@ -1,1 +1,1 @@
-print("Buna ziua there dear sir Lewis Hamilton. Como estas cabron")
+print("Buna ziua there dear sir Lewis Hamilton. Viva mexico cabroneeeees")
